@@ -1,5 +1,5 @@
 # Privacy Policy – Suara Islamku
-** Effective Date: Juli 2025
+**Effective Date:** Juli 2025
 
 ## 1. Overview
 Suara Islamku adalah aplikasi edukasi Islami untuk anak usia dini (±2–8 tahun). Kami menghargai kepercayaan Anda dan berkomitmen menjaga keamanan, privasi, dan transparansi dalam pengumpulan data.
@@ -29,8 +29,8 @@ Kebijakan ini bisa diperbarui tiap saat. Jika ada perubahan signifikan, akan dii
 ## 8. Kontak
 Jika kamu memiliki pertanyaan tentang kebijakan ini, hubungi:
 
-** Developer: Fajar Muhammad Fathirochman
+**Developer:** Fajar Muhammad Fathirochman
 
-** Email developer: fajarlive92@gmail.com
+**Email developer:** fajarlive92@gmail.com
 
-** GitHub profile: [GitHub Profile][https://github.com/fajarlive92]
+**GitHub profile:** [GitHub Profile](https://github.com/fajarlive92)
